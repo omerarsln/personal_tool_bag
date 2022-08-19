@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876794127851",
+    "project_id": "personal-tool-bag-70d81",
+    "storage_bucket": "personal-tool-bag-70d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876794127851:android:d42469a107cf5dd56525ae",
+        "android_client_info": {
+          "package_name": "com.omerarslan.personal_tool_bag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876794127851-hvi4fkeo654dbaljvd72mk85j2emor6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omerarslan.personal_tool_bag",
+            "certificate_hash": "02e22630eb65d1e45e984160bab5a679c61e93e3"
+          }
+        },
+        {
+          "client_id": "876794127851-mlq9q4p1e4u4ugkspinrf39c1qecgsmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX4VeySslogXziH1kFqcVh5-gtxeTEDQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876794127851-mlq9q4p1e4u4ugkspinrf39c1qecgsmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
